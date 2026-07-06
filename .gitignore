@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User / IDE
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
